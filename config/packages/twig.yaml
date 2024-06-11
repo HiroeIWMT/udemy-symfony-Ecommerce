@@ -1,5 +1,7 @@
 twig:
     file_name_pattern: '*.twig'
+#私が追記した箇所#
+    form_themes: ['bootstrap_5_layout.html.twig']
 
 when@test:
     twig:
